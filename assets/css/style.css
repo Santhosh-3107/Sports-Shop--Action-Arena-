@@ -282,6 +282,7 @@ nav{
   margin-top: 10%;
   margin-left: 20px;
   display: flex;
+  cursor: pointer;
 }
 .insta img {
   position: relative;
